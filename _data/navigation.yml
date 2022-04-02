@@ -1,0 +1,19 @@
+main:
+  # - title: "Research"
+  #   url: /research/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Reviews"
+    url: /reviews/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "About"
+  #   url: /about/
