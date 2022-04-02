@@ -59,8 +59,8 @@ author:
     - label: "Dribbble"
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-stack-exchange"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-o"
       url: "hguan003@fiu.edu"
 
 footer:
@@ -74,8 +74,8 @@ footer:
     - label: "Dribbble"
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-stack-exchange"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-o"
       url: "hguan003@fiu.edu"
 
 defaults:
