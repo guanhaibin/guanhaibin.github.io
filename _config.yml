@@ -29,24 +29,12 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 2 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -67,9 +55,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
-  #  - label: "Gmail"
-  #    icon: "fab fa-fw fa-google"
-  #    url: "hguan003@fiu.edu"
+    #  - label: "Gmail"
+    #    icon: "fab fa-fw fa-google"
+    #    url: "hguan003@fiu.edu"
     # - label: "Dribbble"
     #   icon: "fab fa-fw fa-dribbble"
     #   url: "https://dribbble.com/HaibinGuan#"
