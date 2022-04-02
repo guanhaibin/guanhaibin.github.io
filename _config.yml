@@ -71,6 +71,9 @@ author:
   #    icon: "fab fa-fw fa-google"
   #    url: "hguan003@fiu.edu"
 
+  - label: "Dribbble"
+    icon: "fab fa-fw fa-dribbble"
+    url: "https://dribbble.com/HaibinGuan#"
 footer:
   links:
     - label: "GitHub"
@@ -82,6 +85,9 @@ footer:
     #- label: "Gmail"
     #  icon: "fab fa-fw fa-google"
     #  url: "hguan003@fiu.edu"
+    - label: "Dribbble"
+      icon: "fab fa-fw fa-dribbble"
+      url: "https://dribbble.com/HaibinGuan#"
 defaults:
   # _posts
   - scope:
