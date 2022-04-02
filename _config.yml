@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I enjoy doing research in metabolomics, genomics and other multi-omics. I believe that a multi-omics apprach can uncover deeper biological context to disease-causing variants and accelaerate our understanding of common disorders,
   unlock new pathways, biomarkers, and drug targets.
 github_username: guanhaibin
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -66,10 +66,10 @@ author:
       url: "https://github.com/guanhaibin"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/haibin-guan"
-    - label: "Gmail"
-      icon: "fab fa-fw fa-google"
-      url: "hguan003@fiu.edu"
+      url: "https://www.linkedin.com/in/haibin-guan/"
+  #  - label: "Gmail"
+  #    icon: "fab fa-fw fa-google"
+  #    url: "hguan003@fiu.edu"
 
 footer:
   links:
@@ -78,10 +78,10 @@ footer:
       url: "https://github.com/guanhaibin"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/haibin-guan"
-    - label: "Gmail"
-      icon: "fab fa-fw fa-google"
-      url: "hguan003@fiu.edu"
+      url: "https://www.linkedin.com/in/haibin-guan/"
+    #- label: "Gmail"
+    #  icon: "fab fa-fw fa-google"
+    #  url: "hguan003@fiu.edu"
 defaults:
   # _posts
   - scope:
