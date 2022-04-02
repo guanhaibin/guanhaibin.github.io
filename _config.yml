@@ -74,7 +74,7 @@ footer:
       icon: "fab fa-fw fa-google"
       url: "hguan003@fiu.edu"
    - label: "Dribbble"
-      icon: "fab fa-fw fa-dribbble"
+      icon: "fa fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
 defaults:
   # _posts
