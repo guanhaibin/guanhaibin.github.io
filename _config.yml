@@ -60,7 +60,7 @@ author:
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "hguan003@fiu.edu"
 
 footer:
@@ -75,7 +75,7 @@ footer:
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "hguan003@fiu.edu"
 
 defaults:
