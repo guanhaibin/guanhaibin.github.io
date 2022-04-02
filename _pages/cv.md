@@ -1,5 +1,5 @@
 ---
 permalink: /cv/
-title: "Vita"
+title: "C Vita"
 author_profile: true
 ---
