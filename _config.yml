@@ -71,8 +71,8 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
     - label: "Gmail"
-     icon: "fab fa-fw fa-google"
-     url: "hguan003@fiu.edu"
+      icon: "fab fa-fw fa-google"
+      url: "hguan003@fiu.edu"
     # - label: "Dribbble"
     #   icon: "fab fa-fw fa-dribbble"
     #   url: "https://dribbble.com/HaibinGuan#"
@@ -96,6 +96,9 @@ defaults:
       layout: single
       author_profile: true
 
-# category_archive:
-#   type: liquid
-#   path: /categories/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
