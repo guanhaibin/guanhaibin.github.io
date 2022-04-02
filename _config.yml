@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: guanhaibin
 minimal_mistakes_skin: dark
 search: true
-teaser: /assets/images/home_img.jpg 
+teaser: "/assets/images/home_img.jpg"
 
 
 
