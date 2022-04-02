@@ -41,6 +41,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -55,9 +56,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
-    #  - label: "Gmail"
-    #    icon: "fab fa-fw fa-google"
-    #    url: "hguan003@fiu.edu"
+    - label: "Gmail"
+      icon: "fab fa-fw fa-google"
+      url: "hguan003@fiu.edu"
     # - label: "Dribbble"
     #   icon: "fab fa-fw fa-dribbble"
     #   url: "https://dribbble.com/HaibinGuan#"
@@ -69,9 +70,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
-    #- label: "Gmail"
-    #  icon: "fab fa-fw fa-google"
-    #  url: "hguan003@fiu.edu"
+    - label: "Gmail"
+     icon: "fab fa-fw fa-google"
+     url: "hguan003@fiu.edu"
     # - label: "Dribbble"
     #   icon: "fab fa-fw fa-dribbble"
     #   url: "https://dribbble.com/HaibinGuan#"
