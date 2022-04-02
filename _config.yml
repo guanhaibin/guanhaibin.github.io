@@ -56,12 +56,13 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
-    - label: "Gmail"
-      icon: "fab fa-fw fa-google"
-      url: "hguan003@fiu.edu"
     - label: "Dribbble"
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-stack-exchange"
+      url: "hguan003@fiu.edu"
+
 footer:
   links:
     - label: "GitHub"
@@ -70,12 +71,13 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haibin-guan/"
-    - label: "Gmail"
-      icon: "fab fa-fw fa-google"
-      url: "hguan003@fiu.edu"
     - label: "Dribbble"
       icon: "fab fa-fw fa-dribbble"
       url: "https://dribbble.com/HaibinGuan#"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-stack-exchange"
+      url: "hguan003@fiu.edu"
+
 defaults:
   # _posts
   - scope:
