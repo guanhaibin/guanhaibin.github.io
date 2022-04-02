@@ -61,7 +61,7 @@ author:
       url: "https://dribbble.com/HaibinGuan#"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "hguan003@fiu.edu"
+      url: "about"
 
 footer:
   links:
@@ -76,7 +76,7 @@ footer:
       url: "https://dribbble.com/HaibinGuan#"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "hguan003@fiu.edu"
+      url: "about"
 
 defaults:
   # _posts
