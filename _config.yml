@@ -49,6 +49,7 @@ author:
   name   : "Haibin Guan"
   avatar : "/assets/images/picture_of_myself.JPG"
   bio    : "Researcher in Biomedical Data Analysis"
+  location   : "New York"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
