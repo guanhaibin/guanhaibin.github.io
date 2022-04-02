@@ -16,10 +16,12 @@
 title: Biomedical Data Analyst @ XX
 email: "hguan003@fiu.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  I do research in Biomedical Data Analysis.
-twitter_username: pedrosotooo
-github_username: PedroJuanSoto
-minimal_mistakes_skin: default
+  As a biomedical data analyst and data scientist, I translate biomedical data into valuable and comprehensible knowledge can revolutionize the diversity of health care.
+  I am experiences in machine learning, data science, biostatistics, and bioinformation
+  I enjoy doing research in metabolomics, genomics and other multi-omics. I believe that a multi-omics apprach can uncover deeper biological context to disease-causing variants and accelaerate our understanding of common disorders,
+  unlock new pathways, biomarkers, and drug targets.
+github_username: guanhaibin
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -60,40 +62,27 @@ author:
   avatar : "/assets/images/picture_of_myself.JPG"
   bio    : "Researcher in Biomedical Data Analysis"
   links:
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-7120-7362"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/PedroJuanSoto"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pedrosotooo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/pedrosotooo/"
-    - label: "Semantic Scholar"
-      # icon: "fab fa-fw fa-semantic-scholar"
-      url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
+      url: "https://github.com/guanhaibin"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "linkedin.com/in/haibin-guan"
+    - label: "Gmail"
+      icon: "fab fa-fw fa-gmail"
+      url: "hguan003@fiu.edu"
 
 footer:
   links:
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-7120-7362"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/PedroJuanSoto"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pedrosotooo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/pedrosotooo/"
-    - label: "Semantic Scholar"
-      # icon: "fab fa-fw fa-semantic-scholar"
-      url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
-
+      url: "https://github.com/guanhaibin"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "linkedin.com/in/haibin-guan"
+    - label: "Gmail"
+      icon: "fab fa-fw fa-gmail"
+      url: "hguan003@fiu.edu"
 defaults:
   # _posts
   - scope:
