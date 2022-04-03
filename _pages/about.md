@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About Me"
+header:
+    overlay_image: /assets/images/coffee.png
+    caption: "Photo by [Haibin Guan] on [Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)"
+classes: wide
 ---
 
 <mark style="background-color:#1faaaa;opacity:0.8;">Hello! Here is who I am & what I do</mark>
