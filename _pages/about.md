@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 
-<mark style="background-color:#f08080;"><h1>Hello, Here is who I am & what I do</h1></mark>
+<mark style="color:#1faaaa;">Hello, Here is who I am & what I do</mark>
 
 I'm a biomedical data analyst and data scientist, welcome to my personal blog to keep track of my projects and personal journey towards biomedical data analysis.
 
