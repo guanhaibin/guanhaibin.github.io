@@ -50,7 +50,7 @@ plugins:
 
 author:
   name   : "Haibin Guan"
-  avatar : "/assets/images/picture_of_myself.JPG"
+  avatar : "/assets/images/picture_of_myself.png"
   bio    : "Researcher in Biomedical Data Analysis"
   location   : "New York, NY"
   links:
