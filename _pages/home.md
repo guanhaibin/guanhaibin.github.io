@@ -10,4 +10,4 @@ author_profile: false
 
 | ![coffee.jpg](/assets/images/coffee.png) |
 |:--:|
-| <b>[Photo by Haibin on Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)</b>|
+| [Photo by Haibin on Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)|
