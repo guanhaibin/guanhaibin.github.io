@@ -3,7 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-<center>Hello, Here is who I am & what I do</center>
+<h1>Hello, Here is who I am & what I do</h1>
+
 
 I'm a biomedical data analyst and data scientist, welcome to my personal blog to keep track of my projects and personal journey towards biomedical data analysis.
 
