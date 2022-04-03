@@ -53,6 +53,7 @@ author:
   avatar : "/assets/images/picture_of_myself.png"
   bio    : "Researcher in Biomedical Data Analysis"
   location   : "New York, NY"
+  googlescholar    : "https://scholar.google.com/citations?user=0huMa6oAAAAJ&hl=en&oi=ao"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
