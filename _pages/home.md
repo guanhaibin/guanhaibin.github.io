@@ -1,10 +1,10 @@
 ---
 permalink: /home/
 title: ""
-header:
-    overlay_image: /assets/images/5am.png
-    caption: "Photo by [Haibin Guan] on [Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)"
 author_profile: false
+<!-- header:
+    overlay_image: /assets/images/5am.png
+    caption: "Photo by Haibin Guan on [Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)" -->
 ---
 
 
