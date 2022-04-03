@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: "Yo, What's up!"
+title: ""
 ---
 
-![Me](/assets/images/coffee.JPG)
+![Me](/assets/images/coffee.png)
