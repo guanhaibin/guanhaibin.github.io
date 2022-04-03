@@ -7,7 +7,7 @@ author_profile: false
 
 | ![coffee.jpg](/assets/images/coffee.png) |
 |:--:|
-| [Photo by Haibin on Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)|
+| [Image by Haibin on Dribbble](https://dribbble.com/shots/14740316-Coffee-To-Go)|
 
 <br>
 <br>
