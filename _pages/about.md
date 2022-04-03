@@ -3,9 +3,9 @@ permalink: /about/
 title: "About Me"
 ---
 
-<p style='font-size:18px;font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;'>
+<p style='font-size:18px;'>
 
-<mark style="background-color:#1faaaa;">Hello! Here is WHO I AM & WHAT I DO</mark>
+<mark style="background-color:#1faaaa;opacity:0.5;">Hello! Here is WHO I AM & WHAT I DO</mark>
 
 I'm a biomedical data analyst and data scientist, welcome to my personal blog to keep track of my projects and personal journey towards biomedical data analysis.
 
