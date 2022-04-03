@@ -3,6 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
+<p style='font-size:18px;font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;'>
 
 <mark style="background-color:#1faaaa;">Hello! Here is WHO I AM & WHAT I DO</mark>
 
@@ -14,3 +15,4 @@ I'm motivated to do research in metabolomics, genomics and other multi-omics. I 
 unlock new pathways, biomarkers, and drug targets.
 
 I have programming skills in Python, R, MATLAB, HTML, LaTex, etc. I am experienced in machine learning, data science, biostatistics, and bioinfomatics. My previous project also involved AWS, MPI, Docker, QIIME2, XCMS, CAMERA, PICRUSt, Karen, etc.
+</p>
