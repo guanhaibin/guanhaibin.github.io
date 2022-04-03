@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 Hello, Here is who I am & what I do
-
+![Me](/assets/images/home_img.JPG)
 I'm a biomedical data analyst and data scientist, welcome to my personal blog to keep track of my projects and personal journey towards biomedical data analysis.
 
 I'm passionate about translating biomedical data into valuable and comprehensible knowledge that can provide a holistic view of biological systems.
