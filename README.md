@@ -1,6 +1,7 @@
 
 # About
-I'm a biomedical data analyst and data scientist, welcome to my personal blog to keep track of my projects and personal journey towards biomedical data analysis.
+
+Welcome to my personal blog, where I keep track of my bioinformatic "diarise" as a biomedical data analyst and data scientist. This is in case I need a refresher in the future.
 
 I'm passionate about translating biomedical data into valuable and comprehensible knowledge that can provide a holistic view of biological systems.
 
