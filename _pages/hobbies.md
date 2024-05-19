@@ -5,16 +5,16 @@ author_profile: true
 ---
 
 
-<figure style="width: 40%" class="align-center">
+<figure style="width: 100%" class="align-center">
   <img src="/assets/images/bedroom3.png" alt="">
 </figure>
 
 
-<figure style="width: 40%" class="align-center">
+<figure style="width: 100%" class="align-center">
   <img src="/assets/images/diningroom.png" alt="">
 </figure>
 
-<video style="width: 40%" class="align-center">
+<video style="width: 100%" class="align-center">
   <img src="/assets/images/livingroom.png" alt="">
 </video>
 
