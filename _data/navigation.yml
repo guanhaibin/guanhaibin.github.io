@@ -9,10 +9,11 @@ main:
     url: /publications/
   - title: "Application"
     url: /application/
-  - title: "Research"
-    url: /research/
   - title: "Hobbies"
     url: /hobbies/
+  - title: "Research"
+    url: /research/
+
 
   # - title: "Categories"
   #   url: /categories/
