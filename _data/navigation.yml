@@ -11,6 +11,8 @@ main:
     url: /application/
   - title: "Research"
     url: /research/
+- title: "Hobbies"
+    url: /hobbies/
 
   # - title: "Categories"
   #   url: /categories/
