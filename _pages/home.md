@@ -6,7 +6,7 @@ author_profile: false
 
 | ![coffee.jpg](/assets/images/coffee.png) |
 |:--:|
-| [3D Modeling by me]
+| 3D Modeling by Haibin
 
 <br>
 <br>
