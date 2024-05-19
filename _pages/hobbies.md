@@ -4,7 +4,7 @@ title: "Hobbies"
 author_profile: true
 ---
 
-<h2 My 3D work with Blender</h2>
+### My 3D work with Blender
 
 <video  style="width: 100%" controls autoplay>
   <source src="/assets/images/2020.mp4"  type="video/mp4">
