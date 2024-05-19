@@ -24,4 +24,6 @@ author_profile: true
   <img src="/assets/images/livingroom.png" alt="">
 </figure>
 
-
+<figure style="width: 100%" class="align-center">
+  <img src="/assets/images/drawing.png" alt="">
+</figure>
