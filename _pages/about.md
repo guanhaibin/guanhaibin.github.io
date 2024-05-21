@@ -54,6 +54,6 @@ I'm always open to collaboration and discussions, so don't hesitate to reach out
 [![website](https://img.shields.io/badge/-Haibin-lightpink?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
 
-<figure style="width: 30%" class="align-center">
-  <img src="/assets/images/me.JPG" alt="">
+<figure class="align-center">
+  <img src="/assets/images/me.JPG" alt="" width="100">
 </figure>
