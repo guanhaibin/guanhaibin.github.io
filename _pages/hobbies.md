@@ -26,8 +26,8 @@ author_profile: true
   <img src="/assets/images/livingroom.png" alt="">
 </figure>
 
-<figure style="width: 150%" class="align-center">
-  <img src="/assets/images/KAGGLE_SURVEY.png" alt="">
+<figure  class="align-center">
+  <img src="/assets/images/KAGGLE_SURVEY.png" alt="" width="500">
 </figure>
 
 <figure style="width: 100%" class="align-center">
