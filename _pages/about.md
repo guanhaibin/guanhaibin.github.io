@@ -6,7 +6,10 @@ classes: wide
 ---
 
 
-<h2> <img src="https://media0.giphy.com/media/RkN0K0MEfEcc34HeZ4/giphy.webp?cid=ecf05e47vzl05eurxzuqe3pcvrs0tbbofyxo7do6waq6m01w&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100"> Hi, I'm Haibin </h2>
+<h2> <img src="https://media0.giphy.com/media/RkN0K0MEfEcc34HeZ4/giphy.webp?cid=ecf05e47vzl05eurxzuqe3pcvrs0tbbofyxo7do6waq6m01w&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100"> Hi, I'm Haibin </h2>  
+<figure class="align-right">
+  <img src="/assets/images/me.JPG" alt="" width="200">
+</figure>
 
 <p> <em>Thanks for stopping by my Github Profile!</em></p>
 <p><em>I'm a Bioinformatician working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.<br> Currently working from home <img src="https://media.giphy.com/media/zPR4BZ9gBXmnj9mDKt/giphy.gif?cid=ecf05e478r0d72qa6en3avnrlq5lkvvglqcspoe9lf1kn09m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> </em></p>
@@ -54,6 +57,4 @@ I'm always open to collaboration and discussions, so don't hesitate to reach out
 [![website](https://img.shields.io/badge/-Haibin-lightpink?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
 
-<figure class="align-center">
-  <img src="/assets/images/me.JPG" alt="" width="100">
-</figure>
+
