@@ -27,7 +27,7 @@ author_profile: true
 </figure>
 
 <figure  class="align-center">
-  <img src="/assets/images/KAGGLE_SURVEY.png" alt="" width="900">
+  <img src="/assets/images/KAGGLE_SURVEY.png" alt="" width="1100">
 </figure>
 
 <figure style="width: 100%" class="align-center">
