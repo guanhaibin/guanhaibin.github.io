@@ -14,6 +14,11 @@ author_profile: true
   <source src="/assets/images/2020diff3.mp4"  type="video/mp4">
 </video>
 <br> 
+
+<figure  class="align-center">
+  <img src="/assets/images/KAGGLE_SURVEY.png" alt="" width="1100">
+</figure>
+
 <figure style="width: 100%" class="align-center">
   <img src="/assets/images/bedroom3.png" alt="">
 </figure>
@@ -26,9 +31,7 @@ author_profile: true
   <img src="/assets/images/livingroom.png" alt="">
 </figure>
 
-<figure  class="align-center">
-  <img src="/assets/images/KAGGLE_SURVEY.png" alt="" width="1100">
-</figure>
+
 
 <figure style="width: 100%" class="align-center">
   <img src="/assets/images/drawing.png" alt="">
