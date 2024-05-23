@@ -1,14 +1,8 @@
 
 # About
 
-Welcome to my personal blog, where I keep track of my bioinformatic "diarise" as a biomedical data analyst and data scientist. This is in case I need a refresher in the future.
+[Haibin Guan](https://guanhaibin.github.io/)
 
-I'm passionate about translating biomedical data into valuable and comprehensible knowledge that can provide a holistic view of biological systems.
-
-I'm motivated to do research in metabolomics, genomics and other multi-omics. I believe that a multi-omics approach can uncover deeper biological context to disease-causing variants and accelerate our understanding of common disorders,
-unlock new pathways, biomarkers, and drug targets.
-
-I have programming skills in Python, R, MATLAB, HTML, LaTex, etc. I am experienced in machine learning, data science, biostatistics, and bioinfomatics. My previous project also involved AWS, MPI, Docker, QIIME2, XCMS, CAMERA, PICRUSt, Karen, etc.
 
 # Publications
 + Maaike van Gerwen, Elena Colicino, <b>Haibin Guan</b>, Georgia Dolios, Girish N Nadkarni, Roel CH Vermeulen, Mary Wolff, Manish Arora, Eric Michael Genden, Lauren M Petrick. [*Per-and Polyfluoroalkyl Substances (PFAS) Exposure and Thyroid Cancer Risk*.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00397-3/fulltext?keyword=Heel%20and%20arch%20pain) EBioMedicine, 2023.
