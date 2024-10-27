@@ -13,6 +13,8 @@ main:
     url: /hobbies/
   - title: "Research"
     url: /research/
+  - title: "Presentations"
+    url: /presentations/
 
 
   # - title: "Categories"
