@@ -50,6 +50,8 @@ Exposomics               ████░░░░░░░░░░░░░░�
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
 - I’m a biomedical data scientist by day, and a data visualization by night. When I'm not decoding the secrets of the small molcules, you can find me perfecting my data visualizations, or just visualizations, love 3d modeling on Blender.
 
+No such thing as a fresh start! 
+
 I'm always open to collaboration and discussions, so don't hesitate to reach out!
 [![Linkedin: Haibin](https://img.shields.io/badge/-Haibin-lightpink?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/haibin-guan/)](https://www.linkedin.com/in/haibin-guan/)
 [![website](https://img.shields.io/badge/-Haibin-lightpink?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
