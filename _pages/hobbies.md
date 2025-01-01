@@ -7,6 +7,11 @@ author_profile: true
 ### My 3D work with Blender
 
 <video  style="width: 100%" controls autoplay>
+  <source src="/assets/images/2025.mp4"  type="video/mp4">
+</video>
+<br> 
+
+<video  style="width: 100%" controls autoplay>
   <source src="/assets/images/2020.mp4"  type="video/mp4">
 </video>
 <br> 
