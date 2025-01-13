@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-<h2> <img src="https://media0.giphy.com/media/RkN0K0MEfEcc34HeZ4/giphy.webp?cid=ecf05e47vzl05eurxzuqe3pcvrs0tbbofyxo7do6waq6m01w&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="200"> Hi, I'm Haibin <img src="/assets/images/Tryptophan.gif" width="200px" alt=""></h2>  
+<h2> <img src="https://media0.giphy.com/media/RkN0K0MEfEcc34HeZ4/giphy.webp?cid=ecf05e47vzl05eurxzuqe3pcvrs0tbbofyxo7do6waq6m01w&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="200"> Hi, I'm Haibin <img src="/assets/images/Serotonin.gif" width="200px" alt=""></h2>  
 
 
 
