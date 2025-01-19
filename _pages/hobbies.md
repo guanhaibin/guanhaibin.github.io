@@ -25,7 +25,7 @@ author_profile: true
 </figure>
 
 <figure style="width: 100%" class="align-center">
-  <img src="/assets/images/office_6.png" alt="">
+  <img src="/assets/images/office_9.png" alt="">
 </figure>
 
 <figure style="width: 100%" class="align-center">
