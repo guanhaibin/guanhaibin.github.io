@@ -4,7 +4,7 @@ title: "Hobbies"
 author_profile: true
 ---
 
-### Here are my Blender 3D artworks published in my portfolio on [Dribbble](https://dribbble.com/HaibinGuan#).
+### Here are my Blender 3D artworks published in my portfolio on [Dribbble](https://dribbble.com/HaibinGuan#) (Note: Dribbble now requires users to have an account to view shots).
 
 <video  style="width: 100%" controls autoplay>
   <source src="/assets/images/2025.mp4"  type="video/mp4">
