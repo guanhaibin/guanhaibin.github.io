@@ -42,8 +42,11 @@ author_profile: true
   <img src="/assets/images/livingroom.png" alt="">
 </figure>
 
-[^1]: (Note: Dribbble now requires users to have an account to view shots).
+
 
 <figure style="width: 100%" class="align-center">
   <img src="/assets/images/drawing.png" alt="">
 </figure>
+
+
+[^1]: Dribbble now requires users to have an account to view shots.
