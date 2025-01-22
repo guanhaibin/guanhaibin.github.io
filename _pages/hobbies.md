@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-<video  style="width: 100%" controls autoplay>
+<video  style="width: 100%" controls muted>
   <source src="/assets/images/2025.mp4"  type="video/mp4">
 </video>
 <br> 
@@ -47,6 +47,20 @@ author_profile: true
 <figure style="width: 100%" class="align-center">
   <img src="/assets/images/drawing.png" alt="">
 </figure>
+
+
+<script>
+  // Play video on hover
+  document.querySelectorAll('video').forEach(video => {
+    video.addEventListener('mouseenter', () => {
+      video.play();
+    });
+    video.addEventListener('mouseleave', () => {
+      video.pause();
+      video.currentTime = 0;  // Reset to start
+    });
+  });
+</script>
 
 
 [^1]: Dribbble now requires users to have an account to view shots.
