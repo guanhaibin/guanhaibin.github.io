@@ -13,11 +13,11 @@ author_profile: true
 </video>
 <br> 
 
-<video  style="width: 100%" controls autoplay>
+<video  style="width: 100%" controls muted>
   <source src="/assets/images/2020.mp4"  type="video/mp4">
 </video>
 <br> 
-<video  style="width: 100%" controls autoplay>
+<video  style="width: 100%" controls muted>
   <source src="/assets/images/2020diff3.mp4"  type="video/mp4">
 </video>
 <br> 
