@@ -45,7 +45,7 @@ Genomics                 ░░░░░░░░░░░░░░░░░░�
 Transcriptomics          ░░░░░░░░░░░░░░░░░░░░░░░░░    0 %
 Proteomics               █░░░░░░░░░░░░░░░░░░░░░░░░    5 %
 Metabolomics             █████████████████░░░░░░░░   70 %
-Exposomics               ██████░░░░░░░░░░░░░░░░░░░   25 %
+Exposomics               ███████░░░░░░░░░░░░░░░░░░   25 %
 ```
 
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
