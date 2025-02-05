@@ -49,7 +49,7 @@ Metabolomics             [██████████████------]   70
 Exposomics               [█████---------------]   25%  
 ```
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin)](https://github.com/guanhaibin/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=dracula)](https://github.com/guanhaibin/github-readme-activity-graph)
 
 - I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
 - I’m a biomedical data scientist by day, and a data visualization by night. When I'm not decoding the secrets of the small molcules, you can find me perfecting my data visualizations, or just visualizations, love 3d modeling on Blender.
