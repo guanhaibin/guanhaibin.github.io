@@ -32,7 +32,7 @@ const Haibin = {
 };
 ```
 
-**I love working in the early morning**
+**I love working in the early morning** 
 
 ```text
 5:00  - 11:00 AM         [██████████████------]   70%
@@ -40,7 +40,6 @@ const Haibin = {
 16:00 - 21:00 PM         [██------------------]   10% 
 ```
 **Multi-Omics Current Focus** 
-
 ```text
 Genomics                 [--------------------]   0%  
 Transcriptomics          [--------------------]   0% 
@@ -49,10 +48,11 @@ Metabolomics             [██████████████------]   70
 Exposomics               [█████---------------]   25%  
 ```
 
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact)](https://github.com/guanhaibin/github-readme-activity-graph)
 
-- I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into sparkling, comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
-- I’m a biomedical data scientist by day, and a data visualization by night. When I'm not decoding the secrets of the small molcules, you can find me perfecting my data visualizations, or just visualizations, love 3d modeling on Blender.
+- I’m looking to collaborate on more reliable untargeted metabolomics data preprocessing workflows, mixture analysis, and need help with multi-omics analysis strategies. I'm still training myself to translate complex high-throughput biomedical data into comprehensible insights using machine learning. Bioinformatics is indeed fascinating.
+- In my free time, I love experimenting with data visualization or getting lost in 3D modeling with Blender. It’s a fun way to mix creativity with tech! You can check out some of my 3D artwork [here](https://guanhaibin.github.io/hobbies/)!.
 
 No such thing as a fresh satrt!
 I'm always open to collaboration and discussions, so don't hesitate to reach out!
