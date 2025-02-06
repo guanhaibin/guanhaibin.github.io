@@ -15,21 +15,21 @@ classes: wide
 
 
 #### My 🧰 ?
-```javascript
-const Haibin = {
-    pronouns: "She" | "Her",
-    code: ["R", "Python", "MATLAB", "HTML", "CSS"],
-    askMeAbout: ["Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"],
-    technologies: {
-        devOps: ["AWS", "Docker🐳"],
-        BioinformaticsTools: ["QIIME2", "XCMS"],
-        DesignedRShinyAPP: ["WorklistsGenerator","BatCheck"]
-    },
-    OmicsData: ["Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"],
-    currentFocus: "Metabolomics","Exposomics"
-    funFact: "Tiny molecules make a big difference. Genomics tell you what you might have while metabolomics tell you what you do have!" ,
-    weakness: "Multitasking"
-};
+```R
+Haibin <- list(
+    pronouns = c("She", "Her"),
+    code = c("R", "Python", "MATLAB", "HTML", "CSS"),
+    askMeAbout = c("Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
+    technologies = list(
+        devOps = c("AWS", "Docker🐳"),
+        BioinformaticsTools = c("QIIME2", "XCMS"),
+        DesignedRShinyAPP = c("WorklistsGenerator", "BatCheck")
+    ),
+    OmicsData = c("Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"),
+    currentFocus = c("Metabolomics", "Exposomics"),
+    funFact = "Tiny molecules make a big difference. Genomics tell you what you might have while metabolomics tell you what you do have!",
+    weakness = "Multitasking"
+)
 ```
 
 **I love working in the early morning** 
