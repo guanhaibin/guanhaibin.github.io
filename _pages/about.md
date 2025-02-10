@@ -22,7 +22,7 @@ Haibin <- list(
     askMeAbout = c("Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
     technologies = list(
         devOps = c("AWS", "Docker🐳"),
-        BioinformaticsTools = c("QIIME2", "XCMS"),
+        BioinformaticsTools = c("QIIME2", "XCMS","Cytoscape"),
         DesignedRShinyAPP = c("WorklistsGenerator", "BatCheck")
     ),
     OmicsData = c("Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"),
