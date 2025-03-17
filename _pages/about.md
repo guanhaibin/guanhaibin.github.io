@@ -55,8 +55,8 @@ Exposomics               [█████---------------]   25%
 - In my free time, I love experimenting with data visualization or getting lost in 3D modeling with Blender. It’s a fun way to mix creativity with tech! You can check out some of my 3D artwork [here](https://guanhaibin.github.io/hobbies/)!.
 
 Feel free to reach out!
-[![Linkedin: Haibin](https://img.shields.io/badge/-Haibin-lightpink?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/haibin-guan/)](https://www.linkedin.com/in/haibin-guan/)
-[![website](https://img.shields.io/badge/-Haibin-lightpink?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
+[![Linkedin: Haibin](https://img.shields.io/badge/-Haibin-lightblue?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/haibin-guan/)](https://www.linkedin.com/in/haibin-guan/)
+[![website](https://img.shields.io/badge/-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
 
 <img src="/assets/images/me.JPG" width="200" align="center">
