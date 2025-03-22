@@ -58,6 +58,8 @@ Feel free to reach out!
 [![Linkedin: Haibin](https://img.shields.io/badge/-Haibin-lightblue?style=square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/haibin-guan/)](https://www.linkedin.com/in/haibin-guan/)
 [![website](https://img.shields.io/badge/-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=black&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
+<a href="https://clustrmaps.com/site/1c51z"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=hwt3Wt0gxfhfGAWylouOF0cnnghZJSDSmWRaU1U6q0M&cl=ffffff" /></a>
+
 
 <img src="/assets/images/me.JPG" width="200" align="center">
 
