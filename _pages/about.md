@@ -60,5 +60,5 @@ Feel free to reach out!
 
 
 
-<img src="/assets/images/me.JPG" width="200" align="center">
+<img src="/assets/images/me.JPG" width="200" align="right">
 
