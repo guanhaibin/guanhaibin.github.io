@@ -55,6 +55,9 @@ author:
   location   : "New York, NY"
 #  googlescholar : "https://scholar.google.com/citations?user=0huMa6oAAAAJ&hl=en&oi=ao"
   links:
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guanhaibin"
@@ -69,10 +72,13 @@ author:
       url: "https://www.petrickexposomelab.com/"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: mailto:hguan003@fiu.edu
+      url: mailto:hguan003@gmail.com
 
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guanhaibin"
@@ -87,7 +93,7 @@ footer:
       url: "https://www.kaggle.com/guanhaibin"
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: mailto:hguan003@fiu.edu
+      url: mailto:hguan003@gmail.com
 
 defaults:
   # _posts
