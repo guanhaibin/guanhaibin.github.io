@@ -23,7 +23,6 @@
   
   [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2201.12990-blue?style=flat-square)](https://doi.org/10.48550/arXiv.2201.12990)
 +  Ruiz-Perez, D., <b>Guan, H.</b>, Madhivanan, P. et al. [*So you think you can PLS-DA?*.](https://doi.org/10.1186/s12859-019-3310-7) BMC Bioinformatics 21, 2 (2020).
-
   [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12859.019.3310.7-blue?style=flat-square)](https://doi.org/10.1186/s12859-019-3310-7)
 + T. Zhang, <b>H. Guan</b>, F.Li, and F.He, [*Modeling of influenza­like illness prediction based on elman neural network*.](http://www.zjyfyxzz.com/CN/Y2019/V31/I2/113),”Preventive Medicine, vol. 31, no. 2, p. 113, 2019.
 
