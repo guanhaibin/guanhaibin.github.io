@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/coffee.png" alt="coffee.jpg" style="border: 3px solid #5fc9c9; border-radius: 8px; max-width: 100%; height: auto;">
+  <img src="/assets/images/coffee.png" alt="coffee.jpg" style="border: 3px solid #3a9492; border-radius: 8px; max-width: 100%; height: auto;">
   <p style="margin-top: 8px;">3D Modeling by Haibin</p>
 </div>
 
