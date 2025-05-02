@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 
-# Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
+<div style="font-size: 0.9em;">
 + <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://authors.elsevier.com/c/1l0RrB8cd46QR) Science of The Total Environment, 2025.
   
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
@@ -26,3 +27,4 @@ author_profile: true
   [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12859.019.3310.7-blue?style=flat-square)](https://doi.org/10.1186/s12859-019-3310-7)
 + T. Zhang, <b>H. Guan</b>, F.Li, and F.He, [*Modeling of influenza­like illness prediction based on elman neural network*.](http://www.zjyfyxzz.com/CN/Y2019/V31/I2/113),”Preventive Medicine, vol. 31, no. 2, p. 113, 2019.
 
+</div>
