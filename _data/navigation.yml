@@ -7,8 +7,8 @@ main:
     url: /assets/resume.pdf
   - title: "Publications"
     url: /publications/
-  - title: "Application"
-    url: /application/
+  - title: "DesignedRShinyAPP"
+    url: /designedRShinyAPP/
   - title: "Hobbies"
     url: /hobbies/
   - title: "Research"
