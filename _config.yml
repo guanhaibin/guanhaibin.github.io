@@ -40,11 +40,11 @@ include:
   - _pages
 
 # Plugins (previously gems:)
+# - jekyll-feed
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
