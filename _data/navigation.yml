@@ -3,14 +3,14 @@ main:
     url: /home/
   - title: "About"
     url: /about/
-  - title: "Vita"
-    url: /assets/resume.pdf
   - title: "Publications"
     url: /publications/
   - title: "DesignedRShinyAPP"
     url: /designedRShinyAPP/
   - title: "Hobbies"
     url: /hobbies/
+  - title: "Vita"
+    url: /assets/resume.pdf
   - title: "Research"
     url: /research/
   - title: "Presentations"
