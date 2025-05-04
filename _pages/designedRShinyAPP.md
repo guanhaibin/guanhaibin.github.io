@@ -1,6 +1,6 @@
 ---
-permalink: /designedRShinyAPP/
-title: "DesignedRShinyAPP"
+permalink: /RShinyAPP/
+title: "RShinyAPP"
 author_profile: true
 ---
 
