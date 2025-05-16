@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Biomedical Data Analyst @ Mount Sinai
+title: Computational Biologist @ Mount Sinai
 email: "hguan003@gmail.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  As a biomedical data analyst and data scientist, I translate biomedical data into valuable and comprehensible knowledge that can revolutionize the diversity of health care.
+  As a computational biologist, I translate biomedical data into valuable and comprehensible knowledge that can revolutionize the diversity of health care.
   I am experiences in machine learning, data science, biostatistics, and bioinformation
   I enjoy doing research in metabolomics, genomics and other multi-omics. I believe that a multi-omics apprach can uncover deeper biological context to disease-causing variants and accelaerate our understanding of common disorders,
   unlock new pathways, biomarkers, and drug targets.
@@ -51,7 +51,7 @@ plugins:
 author:
   name   : "Haibin Guan"
   avatar : "/assets/images/picture_of_myself.png"
-  bio    : "Researcher in Biomedical Data Analysis"
+  bio    : "Computational Biologist"
   location   : "New York, NY"
 #  googlescholar : "https://scholar.google.com/citations?user=0huMa6oAAAAJ&hl=en&oi=ao"
   links:
