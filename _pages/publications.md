@@ -16,7 +16,7 @@ author_profile: true
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2023.169383-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2023.169383)
 + Lauren Petrick, <b>Haibin Guan</b>, Grier P. Page, Georgia Dolios, Megan M. Niedzwiecki, Robert O. Wright, Rosalind J. Wright. [*Comparison of maternal venous blood metabolomics collected as dried blood spots, dried blood microsamplers, and plasma for integrative environmental health research*.](https://www.sciencedirect.com/science/article/pii/S0160412024002496) Environment International, 2024.<br>
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envint.2024.108663-blue?style=flat-square)](https://doi.org/10.1016/j.envint.2024.108663)
-+ Pedro Soto, Ilia Ilmer, <b>Haibin Guan</b>, Jun Li, [*Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent*.](https://arxiv.org/abs/2201.12990) In Arxiv, Jan 2022<br>
++ Pedro Soto, Ilia Ilmer, <b>Haibin Guan</b>, Jun Li, [*Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent*.](https://arxiv.org/abs/2201.12990) International Conference on Machine Learning, 2022<br>
   [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2201.12990-blue?style=flat-square)](https://doi.org/10.48550/arXiv.2201.12990)
 +  Ruiz-Perez, D., <b>Guan, H.</b>, Madhivanan, P. et al. [*So you think you can PLS-DA?*.](https://doi.org/10.1186/s12859-019-3310-7) BMC Bioinformatics 21, 2 (2020).<br>
   [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12859.019.3310.7-blue?style=flat-square)](https://doi.org/10.1186/s12859-019-3310-7)
