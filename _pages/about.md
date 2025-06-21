@@ -18,15 +18,15 @@ classes: wide
 ```R
 Haibin <- list(
     pronouns = c("She", "Her"),
-    code = c("R", "Python", "MATLAB", "HTML", "CSS"),
+    code = c("R", "HTML", "CSS", "Python", "MATLAB"),
     askMeAbout = c("Metabolomics Data Analysis", "Data Visualization", "3D Modeling", "Shiny APP Design"),
     technologies = list(
         bioinformatics_tools = c("QIIME2", "XCMS","Cytoscape"),
         shiny_apps_designed = c("WorklistsGenerator", "BatCheck")
     ),
-    OmicsData = c("Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"),
-    currentFocus = c("Metabolomics", "Exposomics"),
-    funFact = "Tiny molecules make a big difference. Genomics tells you what you might have, while metabolomics tells you what you do have.",
+    omics_data = c("Metabolomics", "Proteomics", "Exposomics", "Transcriptomics"),
+    current_focus = c("Metabolomics", "Exposomics"),
+    fun_fact = "Tiny molecules make a big difference. Genomics tells you what you might have, while metabolomics tells you what you do have.",
     weakness = "Multitasking"
 )
 ```
