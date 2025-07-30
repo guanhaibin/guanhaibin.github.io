@@ -8,11 +8,11 @@
 
 # Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 + <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://www.sciencedirect.com/science/article/pii/S0048969725011611) Science of The Total Environment, 2025.
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
   
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
 + Libby M Morimoto, Catherine Metayer, Georgia Dolios, Joseph L Wiemels, Xiaomei Ma, <b>Haibin Guan</b>, Amith Maroli, Lauren M Petrick. [*Per-and polyfluoroalkyl substance concentrations during pregnancy and at birth and risk of childhood acute lymphoblastic leukemia*.](https://doi.org/10.1016/j.envres.2025.122436) Environmental Research, 2025.
   
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2025.122436-blue?style=flat-square)]([https://doi.org/10.1016/j.scitotenv.2025.179520](https://doi.org/10.1016/j.envres.2025.122436))
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2025.122436-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2025.122436)
 + Maaike van Gerwen, Elena Colicino, <b>Haibin Guan</b>, Georgia Dolios, Girish N Nadkarni, Roel CH Vermeulen, Mary Wolff, Manish Arora, Eric Michael Genden, Lauren M Petrick. [*Per-and Polyfluoroalkyl Substances (PFAS) Exposure and Thyroid Cancer Risk*.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00397-3/fulltext?keyword=Heel%20and%20arch%20pain) EBioMedicine, 2023.
   
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ebiom.2023.104831-blue?style=flat-square)](https://doi.org/10.1016/j.ebiom.2023.104831)
