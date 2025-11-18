@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-# Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 + <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://www.sciencedirect.com/science/article/pii/S0048969725011611) Science of The Total Environment, 2025.
 
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
