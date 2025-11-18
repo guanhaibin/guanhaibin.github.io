@@ -14,7 +14,7 @@
   
    [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fj.SciRep.2025.179520-blue?style=flat-square)](https://doi.org/10.1038/s41598-025-18642-2)
 
-+ Gary Joseph, Maaike van Gerwen, Seunghee Kim‐Schulze, Zhihong Chen, Girish N Nadkarni, Haibin Guan, Mathilda Monaghan, Georgia Dolios, Elena Colicino, Eric M Genden, Lauren M Petrick. [*Inflammatory proteins in pre‐diagnosis versus at‐diagnosis samples associated with differentiated thyroid cancer*](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.70232) International Journal of Cancer, 2025.
++ Gary Joseph, Maaike van Gerwen, Seunghee Kim‐Schulze, Zhihong Chen, Girish N Nadkarni, <b>Haibin Guan</b>, Mathilda Monaghan, Georgia Dolios, Elena Colicino, Eric M Genden, Lauren M Petrick. [*Inflammatory proteins in pre‐diagnosis versus at‐diagnosis samples associated with differentiated thyroid cancer*](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.70232) International Journal of Cancer, 2025.
 
   [![DOI](https://img.shields.io/badge/DOI-10.1002%2F.IJC.70232-blue?style=flat-square)](https://doi.org/10.1002/ijc.70232)
 + Libby M Morimoto, Catherine Metayer, Georgia Dolios, Joseph L Wiemels, Xiaomei Ma, <b>Haibin Guan</b>, Amith Maroli, Lauren M Petrick. [*Per-and polyfluoroalkyl substance concentrations during pregnancy and at birth and risk of childhood acute lymphoblastic leukemia*.](https://doi.org/10.1016/j.envres.2025.122436) Environmental Research, 2025.
