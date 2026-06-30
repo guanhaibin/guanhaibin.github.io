@@ -11,13 +11,15 @@
 
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
 
++ Gary Joseph, Estelle Renard-Dausset, Azzurra Invernizzi, Jia Chen, <b>Haibin Guan</b>, Rosalind J. Wright, Robert Wright, Maria José Rosa, Megan Horton, Martha M. Téllez-Rojo, Mariana Torres Calapiz, Elena Colicino, Martine Vrijheid, Maria Foraster, Mariona Bustamante Pineda, Ioar Rivas, Elisa Llurba Olivé, Léa Maitre, Lauren M. Petrick. [*Association between per- and polyfluoroalkyl exposures and postpartum psychological symptoms: Evidence from two population-based pregnancy cohorts*.](https://doi.org/10.1016/j.envres.2026.124923) Environmental Research, 2026.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2026.124923-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2026.124923)
+  
+
 + Catherine Metayer, Chris Gennings, Libby M Morimoto, Shachi Mistry, Katherine A McGlynn, Georgia Dolios, <b>Haibin Guan</b>, Carina Gonzaga R, Syam S Andra, Lauren Petrick. [*Phthalates measured at birth and risk of testicular cancer in adolescents and young adults*.](https://doi.org/10.1093/jncics/pkag011) JNCI Cancer Spectrum, 2026.
 
   [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fjncics.pkag011-blue?style=flat-square)](https://doi.org/10.1093/jncics/pkag011)
 
-+ Gary Joseph, Estelle Renard-Dausset, Azzurra Invernizzi, Jia Chen, <b>Haibin Guan</b>, Rosalind J Wright, Robert O Wright, Maria Jose Rosa, Megan K Horton, Martha M Téllez-Rojo, Mariana Torres-Calapiz, Elena Colicino, Martine Vrijheid, Maria Foraster, Mariona Bustamante, Ioar Rivas, Elisa Llurba, Lea Maitre, Lauren M Petrick. [*Association between per- and polyfluoroalkyl exposures and postpartum psychological symptoms: Evidence from two population-based pregnancy cohorts*.](http://dx.doi.org/10.2139/ssrn.6209110) SSRN, 2025.
-
-  [![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.6209110-blue?style=flat-square)](http://dx.doi.org/10.2139/ssrn.6209110)
   
 + Katherine Svensson, Marco Sanchez-Guerra, Vishal Midya, <b>Haibin Guan</b>, Megan Niedzwiecki, Georgia Dolios, Citlalli Osorio-Yáñez, Luz M Del Razo, Julio C Ayllon-Vergara, Guadalupe Estrada-Gutierrez, Maria Luisa Pizano Zárate, Lauren Petrick, Martha M Téllez-Rojo, Robert O Wright, Elena Colicino. [*Postpartum metabolomics profile predicts 8-years postdelivery women’s subclinical atherosclerosis measures*](https://www.nature.com/articles/s41598-025-18642-2) Scientific Reports, 2025.
   
