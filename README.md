@@ -5,7 +5,6 @@
 
 
 
-
 # Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 + <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://www.sciencedirect.com/science/article/pii/S0048969725011611) Science of The Total Environment, 2025.
 
@@ -15,6 +14,10 @@
   
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2026.124923-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2026.124923)
   
+
++ Katherine Svensson, Sandra India-Aldana, Hachem Saddiki, Lauren M. Petrick, <b>Haibin Guan</b>, Carmen Hernández-Chávez, Martha M. Téllez-Rojo, Robert O. Wright, Rosalind J. Wright, Elena Colicino. [*Pregnancy Stress Exposures and Postpartum Serum Metabolomic Profiles in Mothers*.](https://doi.org/10.3390/metabo16050312) Metabolites, 2026.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fmetabo16050312-blue?style=flat-square)](https://doi.org/10.3390/metabo16050312)
 
 + Catherine Metayer, Chris Gennings, Libby M Morimoto, Shachi Mistry, Katherine A McGlynn, Georgia Dolios, <b>Haibin Guan</b>, Carina Gonzaga R, Syam S Andra, Lauren Petrick. [*Phthalates measured at birth and risk of testicular cancer in adolescents and young adults*.](https://doi.org/10.1093/jncics/pkag011) JNCI Cancer Spectrum, 2026.
 
