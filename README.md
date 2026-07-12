@@ -10,6 +10,11 @@
 
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
 
+
++ Lauren M Petrick, Priyanthi S Dassanayake, Chris Gennings, <b>Haibin Guan</b>, Blessing Akintunde, Mauro Martinez, Pratima Regmi, Irva Hertz-Picciotto, Manish Arora, Deborah H Bennett. [*Fetal exposure to persistent organic pollutants and childhood autism risk*.](https://www.sciencedirect.com/science/article/pii/S0013935126015100) Environmental Research, 2026.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2026.125179-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2026.125179)
+
 + Gary Joseph, Estelle Renard-Dausset, Azzurra Invernizzi, Jia Chen, <b>Haibin Guan</b>, Rosalind J. Wright, Robert Wright, Maria José Rosa, Megan Horton, Martha M. Téllez-Rojo, Mariana Torres Calapiz, Elena Colicino, Martine Vrijheid, Maria Foraster, Mariona Bustamante Pineda, Ioar Rivas, Elisa Llurba Olivé, Léa Maitre, Lauren M. Petrick. [*Association between per- and polyfluoroalkyl exposures and postpartum psychological symptoms: Evidence from two population-based pregnancy cohorts*.](https://doi.org/10.1016/j.envres.2026.124923) Environmental Research, 2026.
   
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2026.124923-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2026.124923)
