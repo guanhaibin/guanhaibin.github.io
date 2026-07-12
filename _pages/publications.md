@@ -9,6 +9,12 @@ author_profile: true
 
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
 
+
+
++ Lauren M Petrick, Priyanthi S Dassanayake, Chris Gennings, <b>Haibin Guan</b>, Blessing Akintunde, Mauro Martinez, Pratima Regmi, Irva Hertz-Picciotto, Manish Arora, Deborah H Bennett. [*Fetal exposure to persistent organic pollutants and childhood autism risk*.](https://www.sciencedirect.com/science/article/pii/S0013935126015100) Environmental Research, 2026.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2026.125179-blue?style=flat-square)](https://doi.org/10.1016/j.envres.2026.125179)
+
 + Catherine Metayer, Chris Gennings, Libby M Morimoto, Shachi Mistry, Katherine A McGlynn, Georgia Dolios, <b>Haibin Guan</b>, Carina Gonzaga R, Syam S Andra, Lauren Petrick. [*Phthalates measured at birth and risk of testicular cancer in adolescents and young adults*.](https://doi.org/10.1093/jncics/pkag011) JNCI Cancer Spectrum, 2026.
 
   [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fjncics.pkag011-blue?style=flat-square)](https://doi.org/10.1093/jncics/pkag011)
