@@ -8,6 +8,7 @@
 # Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 
 + Vishal Midya, Amith S Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim, Alexa Rendon, Rosemary Chen, Kaitlyn Weinstein, <b>Haibin Guan</b>, Gary Joseph, Joseph Eggers, Libni A Torres-Olascoaga, Rohitha Ravisekar, Bhargavi Srinath, Romana Ranchadiya, Syam S Andra, David Achaintre, Chris Gennings, Martha M Téllez-Rojo, Robert O Wright, Manish Arora, Maria José Rosa, Megan Niedzwiecki, Joana Torres, Cecilia S Alcala, Jamil M Lane, Shoshannah Eggers, Jean-Frederic Colombel, Inga Peter, Lauren Petrick, Manasi Agrawal. [*Per- and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts*.](https://www.sciencedirect.com/science/article/pii/S1542356526005136) Clinical Gastroenterology and Hepatology, 2026.
+  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cgh.2026.07.001-blue?style=flat-square)](https://doi.org/10.1016/j.cgh.2026.07.001)
 
 + <b>Haibin Guan</b>, Maaike van Gerwen, Seunghee Kim-Schultz, Elena Colicino, Georgia Dolios, Lauren M Petrick. [*Stability-driven multi-omics integration for reproducible latent structure*.](https://www.biorxiv.org/content/10.64898/2026.06.23.734064) bioRxiv (preprint), 2026. Cold Spring Harbor Laboratory.
