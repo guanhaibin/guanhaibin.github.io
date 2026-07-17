@@ -5,10 +5,14 @@ author_profile: true
 ---
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
-+ <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://www.sciencedirect.com/science/article/pii/S0048969725011611) Science of The Total Environment, 2025.
 
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
 
++ Vishal Midya, Amith S Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim, Alexa Rendon, Rosemary Chen, Kaitlyn Weinstein, <b>Haibin Guan</b>, Gary Joseph, Joseph Eggers, Libni A Torres-Olascoaga, Rohitha Ravisekar, Bhargavi Srinath, Romana Ranchadiya, Syam S Andra, David Achaintre, Chris Gennings, Martha M Téllez-Rojo, Robert O Wright, Manish Arora, Maria José Rosa, Megan Niedzwiecki, Joana Torres, Cecilia S Alcala, Jamil M Lane, Shoshannah Eggers, Jean-Frederic Colombel, Inga Peter, Lauren Petrick, Manasi Agrawal. [*Per- and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts*.](https://www.sciencedirect.com/science/article/pii/S1542356526005136) Clinical Gastroenterology and Hepatology, 2026.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cgh.2026.07.001-blue?style=flat-square)](https://doi.org/10.1016/j.cgh.2026.07.001)
+
++ <b>Haibin Guan</b>, Maaike van Gerwen, Seunghee Kim-Schultz, Elena Colicino, Georgia Dolios, Lauren M Petrick. [*Stability-driven multi-omics integration for reproducible latent structure*.](https://www.biorxiv.org/content/10.64898/2026.06.23.734064) bioRxiv (preprint), 2026. Cold Spring Harbor Laboratory.
+  [![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.06.23.734064-blue?style=flat-square)](https://doi.org/10.64898/2026.06.23.734064)
 
 
 + Lauren M Petrick, Priyanthi S Dassanayake, Chris Gennings, <b>Haibin Guan</b>, Blessing Akintunde, Mauro Martinez, Pratima Regmi, Irva Hertz-Picciotto, Manish Arora, Deborah H Bennett. [*Fetal exposure to persistent organic pollutants and childhood autism risk*.](https://www.sciencedirect.com/science/article/pii/S0013935126015100) Environmental Research, 2026.
@@ -27,6 +31,13 @@ author_profile: true
 + Katherine Svensson, Sandra India-Aldana, Hachem Saddiki, Lauren M. Petrick, <b>Haibin Guan</b>, Carmen Hernández-Chávez, Martha M. Téllez-Rojo, Robert O. Wright, Rosalind J. Wright, Elena Colicino. [*Pregnancy Stress Exposures and Postpartum Serum Metabolomic Profiles in Mothers*.](https://doi.org/10.3390/metabo16050312) Metabolites, 2026.
   
   [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fmetabo16050312-blue?style=flat-square)](https://doi.org/10.3390/metabo16050312)
+
+
+
++ <b>Haibin Guan</b>, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam Andra, Srinivasan Narasimhan, Divya Pulivarthi, Vishal Midya, Lotje D De Witte, Veerle Bergink, Anna Sophie Rommel, Lauren Petrick. [*High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy*.](https://www.sciencedirect.com/science/article/pii/S0048969725011611) Science of The Total Environment, 2025.
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2025.179520-blue?style=flat-square)](https://doi.org/10.1016/j.scitotenv.2025.179520)
+
 
 + Katherine Svensson, Marco Sanchez-Guerra, Vishal Midya, <b>Haibin Guan</b>, Megan Niedzwiecki, Georgia Dolios, Citlalli Osorio-Yáñez, Luz M Del Razo, Julio C Ayllon-Vergara, Guadalupe Estrada-Gutierrez, Maria Luisa Pizano Zárate, Lauren Petrick, Martha M Téllez-Rojo, Robert O Wright, Elena Colicino. [*Postpartum metabolomics profile predicts 8-years postdelivery women’s subclinical atherosclerosis measures*](https://www.nature.com/articles/s41598-025-18642-2) Scientific Reports, 2025.
   
