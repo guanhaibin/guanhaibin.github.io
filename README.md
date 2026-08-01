@@ -12,6 +12,7 @@
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cgh.2026.07.001-blue?style=flat-square)](https://doi.org/10.1016/j.cgh.2026.07.001)
 
 + <b>Haibin Guan</b>, Maaike van Gerwen, Seunghee Kim-Schultz, Elena Colicino, Georgia Dolios, Lauren M Petrick. [*Stability-driven multi-omics integration for reproducible latent structure*.](https://www.biorxiv.org/content/10.64898/2026.06.23.734064) bioRxiv (preprint), 2026. Cold Spring Harbor Laboratory.
+  
   [![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.06.23.734064-blue?style=flat-square)](https://doi.org/10.64898/2026.06.23.734064)
 
 
