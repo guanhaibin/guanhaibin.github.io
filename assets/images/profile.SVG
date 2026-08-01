@@ -1,80 +1,60 @@
-<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="ring"><circle cx="200" cy="200" r="176"/></clipPath>
-  </defs>
+<svg viewBox="102 82 176 268" xmlns="http://www.w3.org/2000/svg">
+  <!-- transparent background: no square, circle, ring, or desk -->
 
-  <!-- white square background -->
-  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <!-- back hair -->
+  <path d="M148 292 C142 236 144 118 200 111 C256 118 258 236 252 292
+           C233 305 167 305 148 292 Z" fill="#2f2a3c"/>
 
-  <!-- circle background: none (white square shows through) -->
-  <circle cx="200" cy="200" r="182" fill="#ffffff"/>
+  <!-- neck -->
+  <rect x="192" y="182" width="16" height="24" rx="7" fill="#f6d3b8"/>
 
-  <g clip-path="url(#ring)">
-    <!-- gentle bob -->
-    <g>
-      <animateTransform attributeName="transform" type="translate"
-        values="0 0; 0 -6; 0 0" dur="3.2s" repeatCount="indefinite"
-        calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <!-- top -->
+  <path d="M150 274 C150 216 170 202 200 202 C230 202 250 216 250 274 Z" fill="#a4cedb"/>
 
-      <!-- back hair (full, covers the back) -->
-      <path d="M148 292 C142 236 144 118 200 111 C256 118 258 236 252 292
-               C233 305 167 305 148 292 Z" fill="#2f2a3c"/>
+  <!-- face -->
+  <ellipse cx="200" cy="156" rx="30" ry="33" fill="#fbe0cb"/>
 
-      <!-- neck -->
-      <rect x="192" y="182" width="16" height="24" rx="7" fill="#f6d3b8"/>
+  <!-- front bangs + strand -->
+  <path d="M170 152 C168 120 182 110 200 110 C218 110 232 120 230 152
+           C226 132 216 124 202 128 C200 131 198 131 198 128
+           C184 124 174 132 170 152 Z" fill="#2f2a3c"/>
+  <path d="M200 110 C202 99 211 97 215 104" stroke="#2f2a3c" stroke-width="3.2"
+        fill="none" stroke-linecap="round"/>
 
-      <!-- top (pink) -->
-      <path d="M150 274 C150 216 170 202 200 202 C230 202 250 216 250 274 Z" fill="#a4cedb"/>
+  <!-- blush -->
+  <ellipse cx="176" cy="165" rx="7" ry="4" fill="#a4cedb" opacity="0.32"/>
+  <ellipse cx="224" cy="165" rx="7" ry="4" fill="#a4cedb" opacity="0.32"/>
 
-      <!-- face -->
-      <ellipse cx="200" cy="156" rx="30" ry="33" fill="#fbe0cb"/>
-
-      <!-- front bangs + strand -->
-      <path d="M170 152 C168 120 182 110 200 110 C218 110 232 120 230 152
-               C226 132 216 124 202 128 C200 131 198 131 198 128
-               C184 124 174 132 170 152 Z" fill="#2f2a3c"/>
-      <path d="M200 110 C202 99 211 97 215 104" stroke="#2f2a3c" stroke-width="3.2"
-            fill="none" stroke-linecap="round"/>
-
-      <!-- blush -->
-      <ellipse cx="176" cy="165" rx="7" ry="4" fill="#a4cedb" opacity="0.32"/>
-      <ellipse cx="224" cy="165" rx="7" ry="4" fill="#a4cedb" opacity="0.32"/>
-
-      <!-- eyes (blink) -->
-      <g fill="#2f2a3c">
-        <ellipse cx="187" cy="157" rx="3.4" ry="5.4">
-          <animate attributeName="ry" values="5.4;5.4;0.6;5.4;5.4"
-            keyTimes="0;0.9;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
-        </ellipse>
-        <ellipse cx="213" cy="157" rx="3.4" ry="5.4">
-          <animate attributeName="ry" values="5.4;5.4;0.6;5.4;5.4"
-            keyTimes="0;0.9;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
-        </ellipse>
-      </g>
-      <!-- smile -->
-      <path d="M190 169 Q200 177 210 169" stroke="#2f2a3c" stroke-width="2.6"
-            fill="none" stroke-linecap="round"/>
-
-      <!-- laptop -->
-      <rect x="156" y="266" width="88" height="54" rx="9" fill="#ffffff" stroke="#2f2a3c" stroke-width="3.4"/>
-      <circle cx="200" cy="293" r="6.5" fill="none" stroke="#2f2a3c" stroke-width="2.4"/>
-      <path d="M156 320 L244 320 L263 341 L137 341 Z" fill="#ffffff" stroke="#2f2a3c" stroke-width="3.4" stroke-linejoin="round"/>
-
-      <!-- right arm resting on laptop -->
-      <path d="M236 216 Q248 246 231 270" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
-      <circle cx="230" cy="270" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
-
-      <!-- left arm raised, waving -->
-      <g>
-        <animateTransform attributeName="transform" type="rotate"
-          values="-9 164 214; 9 164 214; -9 164 214" dur="1.3s" repeatCount="indefinite"
-          calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-        <path d="M164 214 Q141 172 129 134" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
-        <circle cx="127" cy="130" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
-      </g>
-    </g>
+  <!-- eyes (blink) -->
+  <g fill="#2f2a3c">
+    <ellipse cx="187" cy="157" rx="3.4" ry="5.4">
+      <animate attributeName="ry" values="5.4;5.4;0.6;5.4;5.4"
+        keyTimes="0;0.9;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="213" cy="157" rx="3.4" ry="5.4">
+      <animate attributeName="ry" values="5.4;5.4;0.6;5.4;5.4"
+        keyTimes="0;0.9;0.94;0.98;1" dur="4.2s" repeatCount="indefinite"/>
+    </ellipse>
   </g>
+  <!-- smile -->
+  <path d="M190 169 Q200 177 210 169" stroke="#2f2a3c" stroke-width="2.6"
+        fill="none" stroke-linecap="round"/>
 
-  <!-- ring: laptop border color -->
-  <circle cx="200" cy="200" r="181" fill="none" stroke="#2f2a3c" stroke-width="4"/>
+  <!-- laptop -->
+  <rect x="156" y="266" width="88" height="54" rx="9" fill="#ffffff" stroke="#2f2a3c" stroke-width="3.4"/>
+  <circle cx="200" cy="293" r="6.5" fill="none" stroke="#2f2a3c" stroke-width="2.4"/>
+  <path d="M156 320 L244 320 L263 341 L137 341 Z" fill="#ffffff" stroke="#2f2a3c" stroke-width="3.4" stroke-linejoin="round"/>
+
+  <!-- right arm resting on laptop -->
+  <path d="M236 216 Q248 246 231 270" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
+  <circle cx="230" cy="270" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
+
+  <!-- left arm raised, waving -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="-9 164 214; 9 164 214; -9 164 214" dur="1.3s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <path d="M164 214 Q141 172 129 134" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
+    <circle cx="127" cy="130" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
+  </g>
 </svg>
