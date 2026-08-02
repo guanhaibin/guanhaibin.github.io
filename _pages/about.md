@@ -7,7 +7,7 @@ classes: wide
 
 
 
-<h2><img src="/assets/images/profile.SVG" width="200"> Hi, I'm Haibin </h2>
+<h2><img src="/assets/images/profile.SVG" width="150"> Hi, I'm Haibin </h2>
 
 <p> <em>Thanks for stopping by my Github Profile!</em></p>
 <p><em>I'm a Computational Biologist working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC. </em></p>
