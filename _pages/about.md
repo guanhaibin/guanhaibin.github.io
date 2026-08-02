@@ -14,7 +14,7 @@ classes: wide
 
 
 
-#### My 🧰 ?
+<img src="/assets/images/toolbox.SVG" width="100"> 
 ```R
 Haibin <- list(
     pronouns = c("She", "Her"),
