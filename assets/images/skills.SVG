@@ -1,8 +1,8 @@
-<svg viewBox="0 0 600 512" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Haibin skills card</title>
-  <desc>Profile card with pronouns, languages, expertise, Shiny apps, omics focus, a fun fact, and a weakness.</desc>
+<svg viewBox="0 0 600 812" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Haibin skills card with focus bar charts</title>
+  <desc>Profile card with pronouns, languages, expertise, Shiny apps, omics focus, a fun fact, a weakness, plus bar charts for preferred working hours and multi-omics focus.</desc>
   <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <rect x="8" y="8" width="584" height="496" rx="16" fill="#211f2b" stroke="#39354a" stroke-width="1"/>
+    <rect x="8" y="8" width="584" height="796" rx="16" fill="#211f2b" stroke="#39354a" stroke-width="1"/>
 
     <text x="32" y="52" font-size="27" font-weight="500" fill="#f3f1f8">Haibin</text>
     <rect x="128" y="34" width="86" height="23" rx="11.5" fill="#2f3a40"/>
@@ -49,5 +49,53 @@
     <text x="52" y="440" font-size="13.5" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#d9d6e4">have, while metabolomics tells you what you do have.</text>
 
     <text x="32" y="484" font-size="12.5" fill="#807d92">Weakness — multitasking</text>
+
+    <line x1="32" y1="508" x2="568" y2="508" stroke="#332f43" stroke-width="1"/>
+
+    <text x="32" y="536" font-size="14" font-weight="500" fill="#e7e5ef">I love working in the early morning</text>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
+      <text x="32" y="567" fill="#b9c7cf">6:00 – 11:00 AM</text>
+      <rect x="190" y="553" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="553" width="196" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="567" text-anchor="end" fill="#c7dbe2">70%</text>
+
+      <text x="32" y="593" fill="#b9c7cf">12:00 – 16:00 PM</text>
+      <rect x="190" y="579" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="579" width="56" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="593" text-anchor="end" fill="#c7dbe2">20%</text>
+
+      <text x="32" y="619" fill="#b9c7cf">16:00 – 21:00 PM</text>
+      <rect x="190" y="605" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="605" width="28" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="619" text-anchor="end" fill="#c7dbe2">10%</text>
+    </g>
+
+    <text x="32" y="652" font-size="14" font-weight="500" fill="#e7e5ef">Multi-omics current focus</text>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13">
+      <text x="32" y="683" fill="#b9c7cf">Genomics</text>
+      <rect x="190" y="669" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="669" width="14" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="683" text-anchor="end" fill="#c7dbe2">5%</text>
+
+      <text x="32" y="709" fill="#b9c7cf">Transcriptomics</text>
+      <rect x="190" y="695" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="695" width="14" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="709" text-anchor="end" fill="#c7dbe2">5%</text>
+
+      <text x="32" y="735" fill="#b9c7cf">Proteomics</text>
+      <rect x="190" y="721" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="721" width="14" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="735" text-anchor="end" fill="#c7dbe2">5%</text>
+
+      <text x="32" y="761" fill="#b9c7cf">Metabolomics</text>
+      <rect x="190" y="747" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="747" width="140" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="761" text-anchor="end" fill="#c7dbe2">50%</text>
+
+      <text x="32" y="787" fill="#b9c7cf">Exposomics</text>
+      <rect x="190" y="773" width="280" height="18" rx="9" fill="#2b2839" stroke="#3a3650" stroke-width="1"/>
+      <rect x="190" y="773" width="98" height="18" rx="9" fill="#a4cedb"/>
+      <text x="560" y="787" text-anchor="end" fill="#c7dbe2">35%</text>
+    </g>
   </g>
 </svg>
