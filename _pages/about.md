@@ -14,7 +14,7 @@ classes: wide
 
 
 
-<img src="/assets/images/toolbox.SVG" width="100"> 
+<img src="/assets/images/toolbox.SVG" width="60"> 
 
 ```R
 Haibin <- list(
