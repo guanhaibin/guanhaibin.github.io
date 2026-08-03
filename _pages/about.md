@@ -16,6 +16,9 @@ classes: wide
 
 <img src="/assets/images/toolbox.SVG" width="60"> 
 
+<img src="/assets/images/skills.SVG" width="600" alt="Haibin — skills">
+
+
 ```R
 Haibin <- list(
     pronouns = c("She", "Her"),
