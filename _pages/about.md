@@ -13,10 +13,6 @@ classes: wide
 <p><em>I'm a Computational Biologist working at the <a href="https://www.petrickexposomelab.com/"> PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC. </em></p>
 
 
-
-<img src="/assets/images/toolbox.SVG" width="60"> 
-
-
 {% include skills-card.html %}
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact&bg_color=1b1f28&color=e7ebf0&title_color=a4cedb&line=a4cedb&border_color=2b313b)](https://github.com/guanhaibin/github-readme-activity-graph)
