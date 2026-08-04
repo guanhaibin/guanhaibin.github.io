@@ -16,8 +16,8 @@ classes: wide
 
 <img src="/assets/images/toolbox.SVG" width="60"> 
 
-<img src="/assets/images/skills.SVG" width="800">
 
+{% include skills-card.html %}
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact)](https://github.com/guanhaibin/github-readme-activity-graph)
 
