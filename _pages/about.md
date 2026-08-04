@@ -15,7 +15,7 @@ classes: wide
 
 {% include skills-card.html %}
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact&bg_color=1b1f28&color=e7ebf0&title_color=a4cedb&line=a4cedb&border_color=2b313b)](https://github.com/guanhaibin/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanhaibin&theme=github-compact&bg_color=1b1f28&color=e7ebf0&title_color=52adc8&line=52adc8&point=52adc8&border_color=2b313b)](https://github.com/guanhaibin/github-readme-activity-graph)
 
 
 - I'm constantly developing my skills in applying statistical causal models and machine learning techniques to interpret complex, high-throughput biomedical data into clear, actionable insights. This involves multiple stages, such as robust omics data preprocessing, high-dimensional and mixture analyses, and multi-omics integration strategies. Bioinformatics is truly fascinating!
