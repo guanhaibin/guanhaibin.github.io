@@ -1,0 +1,78 @@
+<style>
+  .hb-card{max-width:720px;margin:0 auto;background:#211f2b;border:1px solid #39354a;border-radius:16px;padding:26px 30px;
+    font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#e7e5ef;box-sizing:border-box}
+  .hb-head{display:flex;align-items:center;gap:12px;padding-bottom:16px;border-bottom:1px solid #332f43}
+  .hb-name{font-size:27px;font-weight:500;color:#f3f1f8}
+  .hb-pro{font-size:12.5px;color:#a4cedb;background:#2f3a40;border-radius:12px;padding:4px 12px}
+  .hb-label{font-size:11px;letter-spacing:1.6px;color:#8b88a0;margin:20px 0 10px;display:flex;justify-content:space-between;align-items:center}
+  .hb-legend{display:flex;align-items:center;gap:6px;letter-spacing:0}
+  .hb-dot{width:8px;height:8px;border-radius:50%;background:#a4cedb;display:inline-block}
+  .hb-row{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{font-size:13.5px;color:#c7dbe2;background:#2b2839;border:1px solid transparent;border-radius:14px;
+    padding:5px 14px;text-decoration:none;cursor:pointer;transition:transform .15s ease,background .15s ease,border-color .15s ease,box-shadow .15s ease}
+  .chip:hover{transform:translateY(-2px);background:#34314a;border-color:#a4cedb;box-shadow:0 4px 12px rgba(0,0,0,.35)}
+  .chip.focus{background:#a4cedb;color:#182529;font-weight:500}
+  .chip.focus:hover{background:#b7dce7;border-color:#e7f3f7}
+  .chip.app{color:#e9cfb4;background:#302a34}
+  .chip.app:hover{background:#3c333f;border-color:#e9cfb4}
+  .hb-fun{position:relative;background:#2a2636;border-radius:10px;padding:14px 18px 14px 20px;margin-top:2px;
+    border-left:4px solid #fbe0cb;font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:13.5px;color:#d9d6e4;line-height:1.5}
+  .hb-weak{font-size:12.5px;color:#807d92;margin-top:16px}
+  .hb-hr{border:none;border-top:1px solid #332f43;margin:22px 0}
+  .hb-h{font-size:14px;font-weight:500;color:#e7e5ef;margin:0 0 12px}
+  .bar-row{display:flex;align-items:center;gap:14px;margin:8px 0;font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-size:13px}
+  .bar-lab{flex:0 0 150px;color:#b9c7cf}
+  .bar-track{flex:1;height:18px;background:#2b2839;border:1px solid #3a3650;border-radius:9px;overflow:hidden}
+  .bar-fill{height:100%;background:#a4cedb;border-radius:9px;width:0;transition:filter .15s ease;animation:grow 1s ease forwards}
+  .bar-row:hover .bar-fill{filter:brightness(1.12)}
+  .bar-pct{flex:0 0 40px;text-align:right;color:#c7dbe2}
+  @keyframes grow{from{width:0}}
+</style>
+<div class="hb-card">
+  <div class="hb-head">
+    <span class="hb-name">Haibin</span>
+    <span class="hb-pro">she / her</span>
+  </div>
+
+  <div class="hb-label">CODE</div>
+  <div class="hb-row">
+    <a class="chip" href="#">R</a><a class="chip" href="#">HTML</a><a class="chip" href="#">CSS</a>
+    <a class="chip" href="#">Python</a><a class="chip" href="#">MATLAB</a>
+  </div>
+
+  <div class="hb-label">ASK ME ABOUT</div>
+  <div class="hb-row">
+    <a class="chip" href="#">Multi-Omics Data Analysis</a><a class="chip" href="#">Data Visualization</a>
+    <a class="chip" href="#">3D Modeling</a><a class="chip" href="#">Shiny App Design</a>
+  </div>
+
+  <div class="hb-label">OMICS DATA<span class="hb-legend"><span class="hb-dot"></span>current focus</span></div>
+  <div class="hb-row">
+    <a class="chip focus" href="#">Metabolomics</a><a class="chip" href="#">Proteomics</a>
+    <a class="chip focus" href="#">Exposomics</a><a class="chip" href="#">Transcriptomics</a>
+  </div>
+
+  <div class="hb-label">SHINY APPS</div>
+  <div class="hb-row">
+    <a class="chip app" href="#">WorklistsGenerator</a><a class="chip app" href="#">BatCheck</a>
+  </div>
+
+  <div class="hb-label">FUN FACT</div>
+  <div class="hb-fun">Tiny molecules make a big difference. Genomics tells you what you might have, while metabolomics tells you what you do have.</div>
+
+  <div class="hb-weak">Weakness — multitasking</div>
+
+  <hr class="hb-hr">
+
+  <p class="hb-h">I love working in the early morning</p>
+  <div class="bar-row"><span class="bar-lab">6:00 – 11:00 AM</span><span class="bar-track"><span class="bar-fill" style="width:70%"></span></span><span class="bar-pct">70%</span></div>
+  <div class="bar-row"><span class="bar-lab">12:00 – 16:00 PM</span><span class="bar-track"><span class="bar-fill" style="width:20%"></span></span><span class="bar-pct">20%</span></div>
+  <div class="bar-row"><span class="bar-lab">16:00 – 21:00 PM</span><span class="bar-track"><span class="bar-fill" style="width:10%"></span></span><span class="bar-pct">10%</span></div>
+
+  <p class="hb-h" style="margin-top:22px">Multi-omics current focus</p>
+  <div class="bar-row"><span class="bar-lab">Genomics</span><span class="bar-track"><span class="bar-fill" style="width:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Transcriptomics</span><span class="bar-track"><span class="bar-fill" style="width:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Proteomics</span><span class="bar-track"><span class="bar-fill" style="width:5%"></span></span><span class="bar-pct">5%</span></div>
+  <div class="bar-row"><span class="bar-lab">Metabolomics</span><span class="bar-track"><span class="bar-fill" style="width:50%"></span></span><span class="bar-pct">50%</span></div>
+  <div class="bar-row"><span class="bar-lab">Exposomics</span><span class="bar-track"><span class="bar-fill" style="width:35%"></span></span><span class="bar-pct">35%</span></div>
+</div>
