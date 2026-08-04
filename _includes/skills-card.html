@@ -3,19 +3,23 @@
   #hb-skills{max-width:1000px;margin:0 auto;background:#1b1f28;border:1px solid #2b313b;border-radius:0px;padding:26px 30px;
     font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#e7ebf0;box-sizing:border-box}
   #hb-skills *{box-sizing:border-box}
-  #hb-skills .hb-head{display:flex;align-items:center;gap:12px;padding-bottom:16px;border-bottom:1px solid #2b313b}
+  #hb-skills .hb-top{padding-bottom:16px;border-bottom:1px solid #2b313b}
+  #hb-skills .hb-head{display:flex;align-items:center;gap:12px}
   #hb-skills .hb-name{font-size:28px;font-weight:500;color:#f0f3f6}
-  #hb-skills .hb-pro{font-size:13.5px;color:#52adc8;background:#1e2e34;border-radius:12px;padding:4px 12px}
+  #hb-skills .hb-pro{font-size:13.5px;color:#4dabb3;background:#1a2c30;border-radius:12px;padding:4px 12px}
+  #hb-skills .hb-bio{margin:10px 0 0;font-size:14.5px;font-style:italic;color:#aeb6bf;line-height:1.5}
+  #hb-skills .hb-bio a{color:#4dabb3;text-decoration:none}
+  #hb-skills .hb-bio a:hover{text-decoration:underline}
   #hb-skills .hb-label{font-size:12px;letter-spacing:1.6px;color:#8b949e;margin:20px 0 10px;display:flex;justify-content:space-between;align-items:center}
   #hb-skills .hb-legend{display:flex;align-items:center;gap:6px;letter-spacing:0}
-  #hb-skills .hb-dot{width:8px;height:8px;border-radius:50%;background:#52adc8;display:inline-block}
+  #hb-skills .hb-dot{width:8px;height:8px;border-radius:50%;background:#4dabb3;display:inline-block}
   #hb-skills .hb-row{display:flex;flex-wrap:wrap;gap:8px}
   #hb-skills .chip{display:inline-block;font-size:14.5px;color:#c9d1d9;background:#262b34;border:1px solid transparent;border-radius:14px;
     padding:5px 14px;text-decoration:none;cursor:pointer;line-height:1.2;
     transition:transform .15s ease,background .15s ease,border-color .15s ease,box-shadow .15s ease}
-  #hb-skills .chip:hover{transform:translateY(-2px);background:#30363f;border-color:#52adc8;box-shadow:0 4px 12px rgba(0,0,0,.4);text-decoration:none}
-  #hb-skills .chip.focus{background:#52adc8;color:#08222b;font-weight:500}
-  #hb-skills .chip.focus:hover{background:#6bbcd4;border-color:#cfeef6}
+  #hb-skills .chip:hover{transform:translateY(-2px);background:#30363f;border-color:#4dabb3;box-shadow:0 4px 12px rgba(0,0,0,.4);text-decoration:none}
+  #hb-skills .chip.focus{background:#4dabb3;color:#06232a;font-weight:500}
+  #hb-skills .chip.focus:hover{background:#64bcc4;border-color:#cdeef1}
   #hb-skills .hb-fun{background:#232830;border-radius:10px;padding:14px 18px 14px 20px;margin-top:2px;
     border-left:4px solid #b0a598;font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:14.5px;color:#d0d7de;line-height:1.5}
   #hb-skills .hb-weak{font-size:13.5px;color:#768390;margin-top:16px}
@@ -24,7 +28,7 @@
   #hb-skills .bar-row{display:flex;align-items:center;gap:14px;margin:8px 0;font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-size:14px}
   #hb-skills .bar-lab{flex:0 0 150px;color:#9aa4ae}
   #hb-skills .bar-track{flex:1;height:18px;background:#262b34;border:1px solid #363d47;border-radius:9px;overflow:hidden}
-  #hb-skills .bar-fill{display:block;height:100%;background:#52adc8;border-radius:9px;width:var(--w);min-width:2px;
+  #hb-skills .bar-fill{display:block;height:100%;background:#4dabb3;border-radius:9px;width:var(--w);min-width:2px;
     transition:filter .15s ease;animation:hb-grow 1s ease}
   #hb-skills .bar-row:hover .bar-fill{filter:brightness(1.12)}
   #hb-skills .bar-pct{flex:0 0 40px;text-align:right;color:#c9d1d9}
@@ -32,9 +36,12 @@
   @media(max-width:520px){#hb-skills .bar-lab{flex:0 0 110px}}
 </style>
 
-  <div class="hb-head">
-    <span class="hb-name">Haibin</span>
-    <span class="hb-pro">she / her</span>
+  <div class="hb-top">
+    <div class="hb-head">
+      <span class="hb-name">I'm Haibin</span>
+      <span class="hb-pro">she / her</span>
+    </div>
+    <p class="hb-bio">I'm a Computational Biologist working at the <a href="https://www.petrickexposomelab.com/">PRIME</a> Lab at Icahn School of Medicine at Mount Sinai in NYC.</p>
   </div>
 
   <div class="hb-label">CODE</div>
