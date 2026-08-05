@@ -21,6 +21,6 @@ classes: wide
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haibin-4dabb3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haibin-guan/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Haibin-4dabb3?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
-[![website](https://img.shields.io/badge/My%20Webpage-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=white&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
+[![website](https://img.shields.io/badge/My%20Webpage-Haibin-4dabb3?&style=square&logo=Google-Chrome&logoColor=white&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
 
