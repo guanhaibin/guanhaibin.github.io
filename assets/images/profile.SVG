@@ -1,9 +1,9 @@
 <svg viewBox="102 82 176 268" xmlns="http://www.w3.org/2000/svg">
-  <!-- one continuous light-grey outline around the entire figure -->
+  <!-- one continuous teal outline around the entire figure -->
   <defs>
     <filter id="profileOutline" x="-20%" y="-20%" width="140%" height="140%">
       <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="dilated"/>
-      <feFlood flood-color="#d0d0d0" result="rim"/>
+      <feFlood flood-color="#4dabb3" result="rim"/>
       <feComposite in="rim" in2="dilated" operator="in" result="outline"/>
       <feMerge>
         <feMergeNode in="outline"/>
@@ -18,8 +18,8 @@
              C233 305 167 305 148 292 Z" fill="#2f2a3c"/>
     <!-- neck -->
     <rect x="192" y="182" width="16" height="24" rx="7" fill="#f6d3b8"/>
-    <!-- top -->
-    <path d="M150 274 C150 216 170 202 200 202 C230 202 250 216 250 274 Z" fill="#a4cedb"/>
+    <!-- top (cloth) -->
+    <path d="M150 274 C150 216 170 202 200 202 C230 202 250 216 250 274 Z" fill="#b0a598"/>
     <!-- face -->
     <ellipse cx="200" cy="156" rx="30" ry="33" fill="#fbe0cb"/>
     <!-- front bangs + strand -->
@@ -54,15 +54,15 @@
       <line x1="148" y1="332" x2="252" y2="332"/>
       <line x1="171" y1="337" x2="229" y2="337"/>
     </g>
-    <!-- right arm resting on laptop -->
-    <path d="M236 216 Q248 246 231 270" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
+    <!-- right arm (cloth sleeve) resting on laptop -->
+    <path d="M236 216 Q248 246 231 270" stroke="#b0a598" stroke-width="13" fill="none" stroke-linecap="round"/>
     <circle cx="230" cy="270" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
-    <!-- left arm raised, waving -->
+    <!-- left arm (cloth sleeve) raised, waving -->
     <g>
       <animateTransform attributeName="transform" type="rotate"
         values="-9 164 214; 9 164 214; -9 164 214" dur="1.3s" repeatCount="indefinite"
         calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-      <path d="M164 214 Q141 172 129 134" stroke="#a4cedb" stroke-width="13" fill="none" stroke-linecap="round"/>
+      <path d="M164 214 Q141 172 129 134" stroke="#b0a598" stroke-width="13" fill="none" stroke-linecap="round"/>
       <circle cx="127" cy="130" r="9" fill="#fbe0cb" stroke="#2f2a3c" stroke-width="2.4"/>
     </g>
   </g>
