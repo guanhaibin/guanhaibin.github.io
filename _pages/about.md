@@ -1,13 +1,13 @@
 ---
 layout: single
 permalink: /about/
-title: "About Me"
+title: " "
 classes: wide
 ---
 
 
 
-<img src="/assets/images/profile.SVG" width="150">
+<img src="/assets/images/profile.SVG" width="120">
 
 
 {% include skills-card.html %}
@@ -23,7 +23,4 @@ classes: wide
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Haibin-4dabb3?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 [![website](https://img.shields.io/badge/My%20Webpage-Haibin-lightblue?&style=square&logo=Google-Chrome&logoColor=white&link=https://guanhaibin.github.io/home/)](https://guanhaibin.github.io/home/)
 
-
-
-<img src="/assets/images/me.JPG" width="200" align="right">
 
