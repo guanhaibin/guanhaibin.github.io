@@ -7,13 +7,27 @@
 
 # Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=5TakQ14AAAAJ&hl=en&oi=ao)
 
++ <b>Haibin Guan</b>, Maaike van Gerwen, Seunghee Kim-Schultz, Elena Colicino, Georgia Dolios, Lauren M Petrick. [*Stability-driven multi-omics integration for reproducible latent structure*.](https://www.biorxiv.org/content/10.64898/2026.06.23.734064) bioRxiv (preprint), 2026. Cold Spring Harbor Laboratory.
+  
+  [![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.06.23.734064-blue?style=flat-square)](https://doi.org/10.64898/2026.06.23.734064)
+
++ Biban Gill, <b>Haibin Guan</b>, Amith S Maroli, Georgia Dolios, David Achaintre, Gary Joseph, Jessica Yang, Gabe Froehlich, Maaike van Gerwen, Lauren M Petrick. [*Novel Per- and Polyfluoroalkyl Substances (PFAS) Associated with Thyroid Cancer*.](https://doi.org/10.1021/EHP.6c01129) Environmental Health Perspectives, 2026.
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1021%2FEHP.6c01129-blue?style=flat-square)](https://doi.org/10.1021/EHP.6c01129)
+
++ Gary Joseph, Chelsea A DeBolt, Amith S Maroli, <b>Haibin Guan</b>, Liqhwa Ncube, Chris Gennings, Lauren M Petrick. [*Mid-pregnancy plasma environmental chemical exposures and maternal blood pressure in a pilot study of Black women*.](https://www.sciencedirect.com/science/article/pii/S1438463926001951) International Journal of Hygiene and Environmental Health, 2027.
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ijheh.2026.114935-blue?style=flat-square)](https://doi.org/10.1016/j.ijheh.2026.114935)
+
++ Sandra India Aldana, Francheska Merced-Nieves, Vishal Midya, Xin Yu, Katherine Svensson, Jennifer W Thompson, Allison Kupsco, Nia McRae, Inessa Lopez, Alejandra Cantoral, Lauren M Petrick, <b>Haibin Guan</b>, Georgia Dolios, Cecilia S Alcalá, Syam S Andra, Jasmin Chovatiya, Sandipkumar Teraiya, Julio Landero, Dinesh Barupal, Andrea L Deierlein, Allan C Just, Mike Z He, Iván Gutiérrez-Avila, Guadalupe Estrada-Gutierrez, Antonia M Calafat, Andrea A Baccarelli, Robert O Wright, Martha María Téllez-Rojo, Damaskini Valvi, Elena Colicino. [*The chemical exposome during peri-pregnancy, maternal sleep outcomes post-pregnancy, and the potential mediating role of body mass index*.](https://doi.org/10.1016/j.envpol.2026.129220) Environmental Pollution, 2026.
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envpol.2026.129220-blue?style=flat-square)](https://doi.org/10.1016/j.envpol.2026.129220)
+
+
 + Vishal Midya, Amith S Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim, Alexa Rendon, Rosemary Chen, Kaitlyn Weinstein, <b>Haibin Guan</b>, Gary Joseph, Joseph Eggers, Libni A Torres-Olascoaga, Rohitha Ravisekar, Bhargavi Srinath, Romana Ranchadiya, Syam S Andra, David Achaintre, Chris Gennings, Martha M Téllez-Rojo, Robert O Wright, Manish Arora, Maria José Rosa, Megan Niedzwiecki, Joana Torres, Cecilia S Alcala, Jamil M Lane, Shoshannah Eggers, Jean-Frederic Colombel, Inga Peter, Lauren Petrick, Manasi Agrawal. [*Per- and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts*.](https://www.sciencedirect.com/science/article/pii/S1542356526005136) Clinical Gastroenterology and Hepatology, 2026.
   
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cgh.2026.07.001-blue?style=flat-square)](https://doi.org/10.1016/j.cgh.2026.07.001)
 
-+ <b>Haibin Guan</b>, Maaike van Gerwen, Seunghee Kim-Schultz, Elena Colicino, Georgia Dolios, Lauren M Petrick. [*Stability-driven multi-omics integration for reproducible latent structure*.](https://www.biorxiv.org/content/10.64898/2026.06.23.734064) bioRxiv (preprint), 2026. Cold Spring Harbor Laboratory.
-  
-  [![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.06.23.734064-blue?style=flat-square)](https://doi.org/10.64898/2026.06.23.734064)
 
 
 + Lauren M Petrick, Priyanthi S Dassanayake, Chris Gennings, <b>Haibin Guan</b>, Blessing Akintunde, Mauro Martinez, Pratima Regmi, Irva Hertz-Picciotto, Manish Arora, Deborah H Bennett. [*Fetal exposure to persistent organic pollutants and childhood autism risk*.](https://www.sciencedirect.com/science/article/pii/S0013935126015100) Environmental Research, 2026.
